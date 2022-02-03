@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "system_error": "c",
+        "math.h": "c",
+        "link_layer.h": "c",
+        "receiver.h": "c",
+        "utils.h": "c",
+        "sender.h": "c",
+        "application_layer.h": "c",
+        "stdio.h": "c"
+    }
+}
