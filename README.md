@@ -1,4 +1,4 @@
-# FEUP-PFL 2021/2022
+# FEUP-RC 2021/2022
 Lab exercises, data link protocol project and ftp download application project for the RC curricular unit.
 
 ### Project Infos
