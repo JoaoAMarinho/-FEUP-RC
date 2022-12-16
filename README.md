@@ -2,7 +2,7 @@
 Lab exercises, data link protocol project and ftp download application project for the RC curricular unit.
 
 ### Project Infos
-* **Date:** 3nd Year, 1st Semester, 2021/2022
+* **Date:** 3rd Year, 1st Semester, 2021/2022
 * **Course:** Redes de Computadores (RC) | Computer Networks
 * **Course Link:** [Course Link](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435)
 
